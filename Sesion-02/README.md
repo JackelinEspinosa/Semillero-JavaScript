@@ -18,6 +18,12 @@
 **while**
 ![image](https://github.com/JackelinEspinosa/Semillero-JavaScript/assets/134608173/85c0ecec-6f96-414c-bebe-bf8afb97f6a9)
 
+**Reto-02**
+![image](https://github.com/JackelinEspinosa/Semillero-JavaScript/assets/134608173/14e64da1-c1fb-4d4d-afd1-430e025a7fcf)
+
+**Reto-03**
+![image](https://github.com/JackelinEspinosa/Semillero-JavaScript/assets/134608173/c4ea0963-da7d-44d4-8f45-bd00d4937ef6)
+
 
 
 
