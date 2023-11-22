@@ -19,6 +19,7 @@
 ![image](https://github.com/JackelinEspinosa/Semillero-JavaScript/assets/134608173/345dc3c7-fc25-43de-bcef-300ac9e54a3e)
 
 **obMetodo**
+
 ![image](https://github.com/JackelinEspinosa/Semillero-JavaScript/assets/134608173/5f51bc59-bd65-407a-b53f-59c3746ff5d6)
 
 **Reto-03**
