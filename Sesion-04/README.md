@@ -1,4 +1,4 @@
-**Semillero-JavaScript/Sesion-03**
+**Semillero-JavaScript/Sesion-04**
 
 **arreglo**
 ![image](https://github.com/JackelinEspinosa/Semillero-JavaScript/assets/134608173/d1e42052-52e2-4a64-8def-4d79237095ca)
