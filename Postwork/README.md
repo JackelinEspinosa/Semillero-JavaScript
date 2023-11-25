@@ -24,6 +24,7 @@ Botones "Editar" y "Eliminar" para cada doctor.
 **Sección de Citas:**
 
 **"Lista de Citas".**
+
 Botón "Nueva Cita" para agregar una nueva.
 Tabla para mostrar la información de las citas (ID, Fecha, Hora, Paciente, Doctor, Estado).
 Botones "Editar" y "Eliminar" para cada cita.
