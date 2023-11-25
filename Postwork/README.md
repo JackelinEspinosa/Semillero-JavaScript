@@ -16,9 +16,15 @@ Botones "Editar" y "Eliminar" para cada paciente.
 **Sección de Doctores:**
 
 **"Lista de Doctores".**
+
 Botón "Nuevo Doctor" para agregar uno nuevo.
 Tabla para mostrar la información de los doctores (ID, Nombre, Especialidad, Teléfono, Estado).
 Botones "Editar" y "Eliminar" para cada doctor.
+
+![image](https://github.com/JackelinEspinosa/Semillero-JavaScript/assets/134608173/b5d9252b-89a0-448b-bda3-fd3022c86d9f)
+![image](https://github.com/JackelinEspinosa/Semillero-JavaScript/assets/134608173/daf499ed-e0fb-46db-b03c-48f5a57d01be)
+
+
 Sección de Citas:
 
 Título: "Lista de Citas".
@@ -29,7 +35,6 @@ Mockup para el formulario de Pacientes (pacientes-form.html):
 
 Barra de navegación:
 
-Logo (si es aplicable).
 Enlaces a las secciones: Pacientes, Doctores, Citas.
 Formulario de Pacientes:
 
