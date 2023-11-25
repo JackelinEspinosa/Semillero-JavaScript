@@ -5,15 +5,13 @@ Enlaces a las secciones: Pacientes, Doctores, Citas.
 ![image](https://github.com/JackelinEspinosa/Semillero-JavaScript/assets/134608173/6a69f006-37fd-4fb9-b00c-846dad56cf06)
 
 **"Lista de Pacientes".**
+
 Botón "Nuevo Paciente" para agregar uno nuevo.
 Tabla para mostrar la información de los pacientes (ID, Nombre, DNI, Teléfono, Dirección, Estado).
 Botones "Editar" y "Eliminar" para cada paciente.
 
-![image](https://github.com/JackelinEspinosa/Semillero-JavaScript/assets/134608173/ca3dd18d-7a81-4dc6-bbde-14c1ea633d7c)
-
 ![image](https://github.com/JackelinEspinosa/Semillero-JavaScript/assets/134608173/26a04b02-2e87-439e-8117-d6e32b4cedea)
-
-
+![image](https://github.com/JackelinEspinosa/Semillero-JavaScript/assets/134608173/ca3dd18d-7a81-4dc6-bbde-14c1ea633d7c)
 
 **Sección de Doctores:**
 
