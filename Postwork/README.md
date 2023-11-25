@@ -3,6 +3,8 @@
 Enlaces a las secciones: Pacientes, Doctores, Citas.
 ![image](https://github.com/JackelinEspinosa/Semillero-JavaScript/assets/134608173/6a69f006-37fd-4fb9-b00c-846dad56cf06)
 
+**Mockup para Sección de Pacientes:**
+
 **"Lista de Pacientes".**
 
 Botón "Nuevo Paciente" para agregar uno nuevo.
@@ -11,7 +13,7 @@ Botones "Editar" y "Eliminar" para cada paciente.
 
 ![image](https://github.com/JackelinEspinosa/Semillero-JavaScript/assets/134608173/ca3dd18d-7a81-4dc6-bbde-14c1ea633d7c)
 
-**Sección de Doctores:**
+**Mockup para Sección de Doctores:**
 
 **"Lista de Doctores".**
 
@@ -21,7 +23,7 @@ Botones "Editar" y "Eliminar" para cada doctor.
 
 ![image](https://github.com/JackelinEspinosa/Semillero-JavaScript/assets/134608173/daf499ed-e0fb-46db-b03c-48f5a57d01be)
 
-**Sección de Citas:**
+**Mockup para Sección de Citas:**
 
 **"Lista de Citas".**
 
