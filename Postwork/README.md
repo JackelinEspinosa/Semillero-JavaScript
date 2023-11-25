@@ -1,19 +1,21 @@
 **Mockup para la página principal (index.html):**
 
 Barra de navegación:
-![image](https://github.com/JackelinEspinosa/Semillero-JavaScript/assets/134608173/50a82063-973b-4f0e-a814-032c40aaeefc)
-
- 
 Enlaces a las secciones: Pacientes, Doctores, Citas.
-Sección de Pacientes:
+![image](https://github.com/JackelinEspinosa/Semillero-JavaScript/assets/134608173/6a69f006-37fd-4fb9-b00c-846dad56cf06)
 
-Título: "Lista de Pacientes".
+**"Lista de Pacientes".**
 Botón "Nuevo Paciente" para agregar uno nuevo.
 Tabla para mostrar la información de los pacientes (ID, Nombre, DNI, Teléfono, Dirección, Estado).
 Botones "Editar" y "Eliminar" para cada paciente.
-Sección de Doctores:
 
-Título: "Lista de Doctores".
+![image](https://github.com/JackelinEspinosa/Semillero-JavaScript/assets/134608173/26a04b02-2e87-439e-8117-d6e32b4cedea)
+
+![image](https://github.com/JackelinEspinosa/Semillero-JavaScript/assets/134608173/ca3dd18d-7a81-4dc6-bbde-14c1ea633d7c)
+
+**Sección de Doctores:**
+
+**"Lista de Doctores".**
 Botón "Nuevo Doctor" para agregar uno nuevo.
 Tabla para mostrar la información de los doctores (ID, Nombre, Especialidad, Teléfono, Estado).
 Botones "Editar" y "Eliminar" para cada doctor.
