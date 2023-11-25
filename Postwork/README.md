@@ -1,7 +1,9 @@
 **Barra de navegación:**
 
 Enlaces a las secciones: Pacientes, Doctores, Citas.
-![image](https://github.com/JackelinEspinosa/Semillero-JavaScript/assets/134608173/6a69f006-37fd-4fb9-b00c-846dad56cf06)
+
+![image](https://github.com/JackelinEspinosa/Semillero-JavaScript/assets/134608173/b5d50ee3-39c1-4ffa-9f3f-7ab78be8f56a)
+
 
 **Mockup para Sección de Pacientes:**
 
