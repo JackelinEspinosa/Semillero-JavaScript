@@ -1,6 +1,6 @@
 **Barra de navegación:**
 
-Enlaces a las secciones: Pacientes, Doctores, Citas.
+Enlaces a las secciones: Logo,Pacientes, Doctores, Citas.
 
 ![image](https://github.com/JackelinEspinosa/Semillero-JavaScript/assets/134608173/b7307b4a-7f16-4548-a540-7bc962a25d43)
 
