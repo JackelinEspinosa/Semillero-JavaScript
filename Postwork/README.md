@@ -2,7 +2,7 @@
 
 Enlaces a las secciones: Pacientes, Doctores, Citas.
 
-![image](https://github.com/JackelinEspinosa/Semillero-JavaScript/assets/134608173/b5d50ee3-39c1-4ffa-9f3f-7ab78be8f56a)
+![image](https://github.com/JackelinEspinosa/Semillero-JavaScript/assets/134608173/b7307b4a-7f16-4548-a540-7bc962a25d43)
 
 
 **Mockup para Sección de Pacientes:**
