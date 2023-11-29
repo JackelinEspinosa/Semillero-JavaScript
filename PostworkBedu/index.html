@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Configuración del documento -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>App</title>
+  <!-- Inclusión de la hoja de estilos de Bootstrap -->
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="container mt-5">
+<!-- Contenedor principal de la aplicación -->
+  <div class="card">
+    <div class="card-header">
+      <h1 class="mb-0">Gestión de Tareas</h1>
+    </div>
+    <div class="card-body">
+       <!-- Entrada de texto para adicionar tareas con botón -->
+      <div class="input-group mb-3">
+        <input type="text" id="taskInput" class="form-control" placeholder="Adicionar tarea">
+        <div class="input-group-append">
+          <button id="addTaskButton" class="btn btn-primary">Adicionar</button>
+        </div>
+      </div>
+<!-- Lista de tareas -->
+      <ul id="taskList" class="list-group">
+      </ul>
+    </div>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  <script src="index.js"></script>
+  <!-- Inclusión del archivo de script personalizado (archivo.js) -->
+</body>
+</html>
