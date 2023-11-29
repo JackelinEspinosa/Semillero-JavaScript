@@ -49,11 +49,7 @@ function renderTasks() {
     taskList.appendChild(listItem);
   });
 }
-
-
 renderTasks();
-
-// Agregar el event handler al botón
 var addTaskButton = document.getElementById('addTaskButton');
 addTaskButton.addEventListener('click', addTask);
  
